@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(36, 36, 39);
+}
+p{
+    color: floralwhite;
+}
+#upper{
+    width: 100%;
+    background-color: wheat;
+    height: 25px;
+    
+    
+}
+#under{
+    padding-top: 99%;
+    
+}
+img{
+    height: 50px;
+    width: 75px;
+
+}
